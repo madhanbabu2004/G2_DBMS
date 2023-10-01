@@ -65,3 +65,5 @@ alter table studentnu rename to stud;
 
 ### OUTPUT:
 ![output](./d.png)
+### RESULT
+thus a student datebase is created and DDL quries are excecuted in SQL
