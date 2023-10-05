@@ -66,3 +66,5 @@ alter table studento rename to teacher;
 
 ### OUTPUT:
 ![output](./f.png)
+### RESULT
+Thus a student database is created and excecuted in sql
