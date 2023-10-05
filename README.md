@@ -45,6 +45,8 @@ drop table studento;
 
 ### OUTPUT:
 ![output](./c.png)
+
+
 ![output](./d.png)
 
 
