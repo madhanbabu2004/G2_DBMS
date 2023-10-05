@@ -27,7 +27,7 @@ create table student(roll_no numeric(10), name varchar(20), age numeric(20),adre
 ### OUTPUT:
 ![output](./a.png)
 ![output](./b.png)
-
+![output](./g.png)
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
@@ -66,3 +66,5 @@ alter table studento rename to teacher;
 
 ### OUTPUT:
 ![output](./f.png)
+### RESULT
+Thus a student database is created and excecuted in sql
