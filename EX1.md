@@ -34,7 +34,7 @@ create table student(roll_no numeric(10), name varchar(20), age numeric(20),adre
 alter table studento add Department varchar(20);
 
 ### OUTPUT:
-![output](./b.png)
+![output](./z.png)
 
 
 ### 3) Drop the student table
