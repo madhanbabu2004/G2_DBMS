@@ -31,29 +31,30 @@ create table student(roll_no numeric(10), name varchar(20), age numeric(20),adre
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
-alter table studentnu add Department varchar(20);
+alter table studento add Department varchar(20);
 
 ### OUTPUT:
-![output](./a.png)
+![output](./b.png)
 
 
 ### 3) Drop the student table
  
 ### SQL QUERY: 
-drop table studentnu;
+drop table studento;
 
 
 ### OUTPUT:
-![output](./e.png)
+![output](./c.png)
+![output](./d.png)
 
 
 ### 4) Delete the student table using truncate keyword
 
 ### SQL QUERY: 
-truncate table studentnu;
+truncate table studento;
 
 ### OUTPUT:
-![output](./c.png)
+![output](./e.png)
 
 
 
@@ -61,7 +62,7 @@ truncate table studentnu;
 
 ### SQL QUERY: 
 
-alter table studentnu rename to stud;
+alter table studento rename to teacher;
 
 ### OUTPUT:
-![output](./d.png)
+![output](./f.png)
